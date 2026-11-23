@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>ScriptQuest — as cartas de Paulo viram jogo</title>
+  <meta name="description" content="ScriptQuest: um jogo de celular em que cada cidade das cartas de São Paulo vira um modo de jogo." />
+  <meta name="theme-color" content="#141922" />
+  <meta property="og:title" content="ScriptQuest" />
+  <meta property="og:description" content="As cartas de Paulo viram jogo. / Listy Pawła stają się grą." />
+  <meta property="og:image" content="img/icon-192.png" />
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="apple-touch-icon" href="img/icon-192.png" />
+  <script type="module" crossorigin src="./assets/index-B_SyMH33.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-CWwja_91.css">
+</head>
+<body>
+  <canvas id="stage" aria-hidden="true"></canvas>
+  <div id="stage-fade"></div>
+
+  <div id="loader">
+    <div class="loader-box">
+      <img src="img/avatar-saintpaul.webp" alt="" class="loader-avatar" />
+      <div class="brand-word">Script<span>Quest</span></div>
+      <div class="loader-bar"><i id="loader-fill"></i></div>
+      <p id="loader-text">Preparando a viagem…</p>
+    </div>
+  </div>
+
+  <header class="topbar">
+    <a href="#/" class="brand" aria-label="ScriptQuest">
+      <img src="img/avatar-saintpaul.webp" alt="" />
+      <span class="brand-word">Script<span>Quest</span></span>
+    </a>
+    <nav class="nav" id="nav"></nav>
+    <div class="top-actions">
+      <div class="lang" role="group" aria-label="Idioma / Język">
+        <button type="button" data-lang="pt" aria-label="Português">PT</button>
+        <button type="button" data-lang="pl" aria-label="Polski">PL</button>
+      </div>
+      <a class="btn btn-gold btn-sm top-play" id="top-play" target="_blank" rel="noopener"></a>
+    </div>
+  </header>
+
+  <main id="views"></main>
+  <div id="map-labels" aria-hidden="true"></div>
+  <div id="toast" role="status" aria-live="polite"></div>
+
+  <nav class="tabbar" id="tabbar"></nav>
+
+</body>
+</html>
