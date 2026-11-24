@@ -1,0 +1,92 @@
+{
+  "feed": {
+    "site": "https://poloik007.github.io/scriptquest-site/#/atualizacoes",
+    "rss": {
+      "pt": "https://poloik007.github.io/scriptquest-pwa/updates.xml",
+      "pl": "https://poloik007.github.io/scriptquest-pwa/updates-pl.xml"
+    }
+  },
+  "updated": "2026-11-24T12:11:29Z",
+  "releases": [
+    {
+      "version": "0.2.1",
+      "build": "294a72a5b7",
+      "date": "2026-11-24T12:11:29Z",
+      "source": "https://playcanv.as/apps/d7c2d341",
+      "title": {
+        "pt": "Ajustes e correções",
+        "pl": "Poprawki i ulepszenia"
+      },
+      "items": [
+        {
+          "pt": "Ajustes de tela e correções para jogar melhor no celular.",
+          "pl": "Poprawki ekranu i błędów, żeby lepiej grało się na telefonie."
+        }
+      ]
+    },
+    {
+      "version": "0.2.0",
+      "build": "a1e2d50d63",
+      "date": "2026-11-24T11:17:29Z",
+      "source": "https://playcanv.as/apps/a65c7cb3",
+      "title": {
+        "pt": "Roma chega ao jogo",
+        "pl": "Rzym trafia do gry"
+      },
+      "items": [
+        {
+          "pt": "Novo minigame: Roma: Enxertados, um combinar 3 com judeus e gentios na mesma oliveira.",
+          "pl": "Nowa minigra: Rzym: Wszczepieni, gra „łącz po trzy” z Żydami i poganami na jednym drzewie oliwnym."
+        },
+        {
+          "pt": "Seu herói fica ao lado do tabuleiro e comemora ou fica triste conforme a partida.",
+          "pl": "Twój bohater stoi obok planszy i cieszy się albo smuci zależnie od przebiegu gry."
+        },
+        {
+          "pt": "Corinto em praça redonda, com 4 mapas sorteados a cada partida.",
+          "pl": "Korynt na okrągłym placu, z 4 mapami losowanymi w każdej rozgrywce."
+        },
+        {
+          "pt": "Mapa das cartas em 3D, com cristais nas cidades abertas e cadeados nas outras.",
+          "pl": "Mapa listów w 3D, z kryształami w otwartych miastach i kłódkami w pozostałych."
+        },
+        {
+          "pt": "Nova tela de carregamento com a vila à noite.",
+          "pl": "Nowy ekran ładowania z nocną wioską."
+        }
+      ]
+    },
+    {
+      "version": "0.1.0",
+      "build": "7fa1310e94",
+      "date": "2026-11-19T16:03:49Z",
+      "source": "https://playcanv.as/apps/e316ec09",
+      "title": {
+        "pt": "Primeira versão beta",
+        "pl": "Pierwsza wersja beta"
+      },
+      "items": [
+        {
+          "pt": "Corinto: Captura de Zonas, com 6 jornadas.",
+          "pl": "Korynt: Przejmowanie stref, z 6 wyprawami."
+        },
+        {
+          "pt": "Duelo 1×1 online: Reconciliador contra Fofoqueiro.",
+          "pl": "Pojedynek 1×1 online: Jednający kontra Plotkarz."
+        },
+        {
+          "pt": "Heróis: São Paulo, Barnabé, Timóteo e Priscila.",
+          "pl": "Bohaterowie: święty Paweł, Barnaba, Tymoteusz i Pryscylla."
+        },
+        {
+          "pt": "Bíblia offline em português e polonês.",
+          "pl": "Biblia offline po portugalsku i po polsku."
+        },
+        {
+          "pt": "Instale na tela inicial do celular e jogue como um app.",
+          "pl": "Dodaj grę do ekranu głównego telefonu i graj jak w aplikację."
+        }
+      ]
+    }
+  ]
+}

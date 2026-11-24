@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ScriptQuest — Notas de atualização</title>
+    <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+    <atom:link href="https://poloik007.github.io/scriptquest-pwa/updates.xml" rel="self" type="application/rss+xml"/>
+    <description>O que mudou em cada versão do ScriptQuest.</description>
+    <language>pt-BR</language>
+    <lastBuildDate>Tue, 24 Nov 2026 12:11:29 GMT</lastBuildDate>
+    <item>
+      <title>v0.2.1 — Ajustes e correções</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.2.1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:11:29 GMT</pubDate>
+      <description><![CDATA[<ul><li>Ajustes de tela e correções para jogar melhor no celular.</li></ul><p>Versão 294a72a5b7</p>]]></description>
+    </item>
+    <item>
+      <title>v0.2.0 — Roma chega ao jogo</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.2.0</guid>
+      <pubDate>Tue, 24 Nov 2026 11:17:29 GMT</pubDate>
+      <description><![CDATA[<ul><li>Novo minigame: Roma: Enxertados, um combinar 3 com judeus e gentios na mesma oliveira.</li><li>Seu herói fica ao lado do tabuleiro e comemora ou fica triste conforme a partida.</li><li>Corinto em praça redonda, com 4 mapas sorteados a cada partida.</li><li>Mapa das cartas em 3D, com cristais nas cidades abertas e cadeados nas outras.</li><li>Nova tela de carregamento com a vila à noite.</li></ul><p>Versão a1e2d50d63</p>]]></description>
+    </item>
+    <item>
+      <title>v0.1.0 — Primeira versão beta</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.1.0</guid>
+      <pubDate>Thu, 19 Nov 2026 16:03:49 GMT</pubDate>
+      <description><![CDATA[<ul><li>Corinto: Captura de Zonas, com 6 jornadas.</li><li>Duelo 1×1 online: Reconciliador contra Fofoqueiro.</li><li>Heróis: São Paulo, Barnabé, Timóteo e Priscila.</li><li>Bíblia offline em português e polonês.</li><li>Instale na tela inicial do celular e jogue como um app.</li></ul><p>Versão 7fa1310e94</p>]]></description>
+    </item>
+  </channel>
+</rss>

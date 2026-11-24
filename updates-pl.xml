@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ScriptQuest — Informacje o aktualizacjach</title>
+    <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+    <atom:link href="https://poloik007.github.io/scriptquest-pwa/updates-pl.xml" rel="self" type="application/rss+xml"/>
+    <description>Co się zmieniło w każdej wersji ScriptQuest.</description>
+    <language>pl</language>
+    <lastBuildDate>Tue, 24 Nov 2026 12:11:29 GMT</lastBuildDate>
+    <item>
+      <title>v0.2.1 — Poprawki i ulepszenia</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.2.1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:11:29 GMT</pubDate>
+      <description><![CDATA[<ul><li>Poprawki ekranu i błędów, żeby lepiej grało się na telefonie.</li></ul><p>Wersja 294a72a5b7</p>]]></description>
+    </item>
+    <item>
+      <title>v0.2.0 — Rzym trafia do gry</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.2.0</guid>
+      <pubDate>Tue, 24 Nov 2026 11:17:29 GMT</pubDate>
+      <description><![CDATA[<ul><li>Nowa minigra: Rzym: Wszczepieni, gra „łącz po trzy” z Żydami i poganami na jednym drzewie oliwnym.</li><li>Twój bohater stoi obok planszy i cieszy się albo smuci zależnie od przebiegu gry.</li><li>Korynt na okrągłym placu, z 4 mapami losowanymi w każdej rozgrywce.</li><li>Mapa listów w 3D, z kryształami w otwartych miastach i kłódkami w pozostałych.</li><li>Nowy ekran ładowania z nocną wioską.</li></ul><p>Wersja a1e2d50d63</p>]]></description>
+    </item>
+    <item>
+      <title>v0.1.0 — Pierwsza wersja beta</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.1.0</guid>
+      <pubDate>Thu, 19 Nov 2026 16:03:49 GMT</pubDate>
+      <description><![CDATA[<ul><li>Korynt: Przejmowanie stref, z 6 wyprawami.</li><li>Pojedynek 1×1 online: Jednający kontra Plotkarz.</li><li>Bohaterowie: święty Paweł, Barnaba, Tymoteusz i Pryscylla.</li><li>Biblia offline po portugalsku i po polsku.</li><li>Dodaj grę do ekranu głównego telefonu i graj jak w aplikację.</li></ul><p>Wersja 7fa1310e94</p>]]></description>
+    </item>
+  </channel>
+</rss>
