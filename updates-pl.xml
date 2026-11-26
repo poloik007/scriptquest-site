@@ -6,27 +6,20 @@
     <atom:link href="https://poloik007.github.io/scriptquest-pwa/updates-pl.xml" rel="self" type="application/rss+xml"/>
     <description>Co się zmieniło w każdej wersji ScriptQuest.</description>
     <language>pl</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:38:55 GMT</lastBuildDate>
     <item>
-      <title>v0.2.1 — Poprawki i ulepszenia</title>
+      <title>v0.4.0 — Filippi, Boże Narodzenie i 7 cnót</title>
       <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
-      <guid isPermaLink="false">scriptquest-pwa-0.2.1</guid>
-      <pubDate>Tue, 24 Nov 2026 12:11:29 GMT</pubDate>
-      <description><![CDATA[<ul><li>Poprawki ekranu i błędów, żeby lepiej grało się na telefonie.</li></ul><p>Wersja 294a72a5b7</p>]]></description>
+      <guid isPermaLink="false">scriptquest-pwa-0.4.0</guid>
+      <pubDate>Thu, 26 Nov 2026 09:38:55 GMT</pubDate>
+      <description><![CDATA[<ul><li>Filippi: Pieśń o północy, gra rytmiczna z Pawłem i Sylasem w więzieniu, aż trzęsienie ziemi otworzy drzwi.</li><li>Psalmy, chorałowa Msza i Vivaldi; na Boże Narodzenie Adeste Fideles i Cicha noc.</li><li>Świąteczne skórki bohaterów w Sklepie, z awatarem profilu w prezencie.</li><li>Poziomy stają się 7 cnotami, od Umiarkowania do Miłości.</li><li>Nowy sklep z kategoriami, dużymi kartami i wyróżnionym przedmiotem.</li><li>Bohaterowie z ramką według klasy, rysowane awatary dla wszystkich i odnowiony święty Łukasz.</li><li>Mapa listów leży teraz na stole z epoki, z zapalonymi lampkami.</li><li>Multiplayer startuje od razu z bohaterem, którym grasz.</li><li>Portugalska Biblia w przekładzie ks. Matosa Soaresa i więcej luzu w czasie dotknięcia.</li></ul><p>Wersja 24e31fd945</p>]]></description>
     </item>
     <item>
-      <title>v0.2.0 — Rzym trafia do gry</title>
+      <title>v0.3.0 — Bohaterowie z własnymi trofeami i Wyzwania</title>
       <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
-      <guid isPermaLink="false">scriptquest-pwa-0.2.0</guid>
-      <pubDate>Tue, 24 Nov 2026 11:17:29 GMT</pubDate>
-      <description><![CDATA[<ul><li>Nowa minigra: Rzym: Wszczepieni, gra „łącz po trzy” z Żydami i poganami na jednym drzewie oliwnym.</li><li>Twój bohater stoi obok planszy i cieszy się albo smuci zależnie od przebiegu gry.</li><li>Korynt na okrągłym placu, z 4 mapami losowanymi w każdej rozgrywce.</li><li>Mapa listów w 3D, z kryształami w otwartych miastach i kłódkami w pozostałych.</li><li>Nowy ekran ładowania z nocną wioską.</li></ul><p>Wersja a1e2d50d63</p>]]></description>
-    </item>
-    <item>
-      <title>v0.1.0 — Pierwsza wersja beta</title>
-      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
-      <guid isPermaLink="false">scriptquest-pwa-0.1.0</guid>
-      <pubDate>Thu, 19 Nov 2026 16:03:49 GMT</pubDate>
-      <description><![CDATA[<ul><li>Korynt: Przejmowanie stref, z 6 wyprawami.</li><li>Pojedynek 1×1 online: Jednający kontra Plotkarz.</li><li>Bohaterowie: święty Paweł, Barnaba, Tymoteusz i Pryscylla.</li><li>Biblia offline po portugalsku i po polsku.</li><li>Dodaj grę do ekranu głównego telefonu i graj jak w aplikację.</li></ul><p>Wersja 7fa1310e94</p>]]></description>
+      <guid isPermaLink="false">scriptquest-pwa-0.3.0</guid>
+      <pubDate>Tue, 24 Nov 2026 17:15:20 GMT</pubDate>
+      <description><![CDATA[<ul><li>Trofea należą teraz do każdego bohatera (dotychczasowe trafiły do bohatera, którym grałeś)</li><li>Klasa bohatera (Brąz, Srebro, Złoto, Platyna, Diament i Legenda) staje się ramką awatara</li><li>Nowe awatary każdego bohatera oraz Koryntu i Rzymu, odblokowywane trofeami i wygranymi wyprawami</li><li>Każdy bohater ma bonus w trybie solo: Paweł dostaje drugą szansę, Barnaba pomija pierwszy błąd, Tymoteusz ma więcej czasu, Pryscylla więcej luzu, a Łukasz dodatkowe życie</li><li>Ekran główny z GRAJ i MULTIPLAYER: w multiplayerze miasto i rola są losowane</li><li>Wyzwania: 3 misje dziennie (z jedną darmową zmianą), misje tygodnia i Wyzwanie dnia, takie samo dla wszystkich</li><li>Doświadczenie (XP) zdobywa się teraz tylko w multiplayerze</li><li>Korynt i Rzym można przejść aż do wyprawy 100</li><li>Rzym przetłumaczony na polski</li></ul><p>Wersja 3a67b1dd18</p>]]></description>
     </item>
   </channel>
 </rss>

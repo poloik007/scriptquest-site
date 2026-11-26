@@ -6,85 +6,101 @@
       "pl": "https://poloik007.github.io/scriptquest-pwa/updates-pl.xml"
     }
   },
-  "updated": "2026-11-24T12:11:29Z",
+  "updated": "2026-11-26T09:38:55Z",
   "releases": [
     {
-      "version": "0.2.1",
-      "build": "294a72a5b7",
-      "date": "2026-11-24T12:11:29Z",
-      "source": "https://playcanv.as/apps/d7c2d341",
+      "version": "0.4.0",
+      "build": "24e31fd945",
+      "date": "2026-11-26T09:38:55Z",
+      "source": "https://playcanv.as/apps/e70fc316",
       "title": {
-        "pt": "Ajustes e correções",
-        "pl": "Poprawki i ulepszenia"
+        "pt": "Filipos, Natal e as 7 virtudes",
+        "pl": "Filippi, Boże Narodzenie i 7 cnót"
       },
       "items": [
         {
-          "pt": "Ajustes de tela e correções para jogar melhor no celular.",
-          "pl": "Poprawki ekranu i błędów, żeby lepiej grało się na telefonie."
+          "pt": "Filipos: Cântico da meia-noite, um jogo de ritmo com Paulo e Silas na prisão, até o terremoto abrir as portas.",
+          "pl": "Filippi: Pieśń o północy, gra rytmiczna z Pawłem i Sylasem w więzieniu, aż trzęsienie ziemi otworzy drzwi."
+        },
+        {
+          "pt": "Músicas de salmos, da Missa gregoriana e de Vivaldi; no Natal, Adeste Fideles e Noite Feliz.",
+          "pl": "Psalmy, chorałowa Msza i Vivaldi; na Boże Narodzenie Adeste Fideles i Cicha noc."
+        },
+        {
+          "pt": "Skins de Natal dos heróis na Loja, com o avatar do perfil de presente.",
+          "pl": "Świąteczne skórki bohaterów w Sklepie, z awatarem profilu w prezencie."
+        },
+        {
+          "pt": "Os níveis viram as 7 virtudes, da Temperança à Caridade.",
+          "pl": "Poziomy stają się 7 cnotami, od Umiarkowania do Miłości."
+        },
+        {
+          "pt": "Loja nova, com categorias, cards grandes e um item em destaque.",
+          "pl": "Nowy sklep z kategoriami, dużymi kartami i wyróżnionym przedmiotem."
+        },
+        {
+          "pt": "Heróis com moldura pela classe, avatares desenhados para todos e São Lucas renovado.",
+          "pl": "Bohaterowie z ramką według klasy, rysowane awatary dla wszystkich i odnowiony święty Łukasz."
+        },
+        {
+          "pt": "O mapa das cartas agora fica sobre uma mesa da época, com lamparinas acesas.",
+          "pl": "Mapa listów leży teraz na stole z epoki, z zapalonymi lampkami."
+        },
+        {
+          "pt": "Multiplayer entra direto com o herói que você está usando.",
+          "pl": "Multiplayer startuje od razu z bohaterem, którym grasz."
+        },
+        {
+          "pt": "Bíblia em português do Pe. Matos Soares e mais folga no tempo do toque.",
+          "pl": "Portugalska Biblia w przekładzie ks. Matosa Soaresa i więcej luzu w czasie dotknięcia."
         }
       ]
     },
     {
-      "version": "0.2.0",
-      "build": "a1e2d50d63",
-      "date": "2026-11-24T11:17:29Z",
-      "source": "https://playcanv.as/apps/a65c7cb3",
+      "version": "0.3.0",
+      "build": "3a67b1dd18",
+      "date": "2026-11-24T17:15:20Z",
+      "source": "https://playcanv.as/apps/8674a4e2",
       "title": {
-        "pt": "Roma chega ao jogo",
-        "pl": "Rzym trafia do gry"
+        "pt": "Heróis com troféus próprios e Desafios",
+        "pl": "Bohaterowie z własnymi trofeami i Wyzwania"
       },
       "items": [
         {
-          "pt": "Novo minigame: Roma: Enxertados, um combinar 3 com judeus e gentios na mesma oliveira.",
-          "pl": "Nowa minigra: Rzym: Wszczepieni, gra „łącz po trzy” z Żydami i poganami na jednym drzewie oliwnym."
+          "pt": "Os troféus agora são de cada herói (os que você já tinha foram para o herói que você usava)",
+          "pl": "Trofea należą teraz do każdego bohatera (dotychczasowe trafiły do bohatera, którym grałeś)"
         },
         {
-          "pt": "Seu herói fica ao lado do tabuleiro e comemora ou fica triste conforme a partida.",
-          "pl": "Twój bohater stoi obok planszy i cieszy się albo smuci zależnie od przebiegu gry."
+          "pt": "A classe do herói (Bronze, Prata, Ouro, Platina, Diamante e Lendário) vira a moldura do avatar",
+          "pl": "Klasa bohatera (Brąz, Srebro, Złoto, Platyna, Diament i Legenda) staje się ramką awatara"
         },
         {
-          "pt": "Corinto em praça redonda, com 4 mapas sorteados a cada partida.",
-          "pl": "Korynt na okrągłym placu, z 4 mapami losowanymi w każdej rozgrywce."
+          "pt": "Novos avatares de cada herói e de Corinto e Roma, liberados pelos troféus e pelas jornadas vencidas",
+          "pl": "Nowe awatary każdego bohatera oraz Koryntu i Rzymu, odblokowywane trofeami i wygranymi wyprawami"
         },
         {
-          "pt": "Mapa das cartas em 3D, com cristais nas cidades abertas e cadeados nas outras.",
-          "pl": "Mapa listów w 3D, z kryształami w otwartych miastach i kłódkami w pozostałych."
+          "pt": "Cada herói tem um bônus no modo sozinho: Paulo ganha uma segunda chance, Barnabé ignora o primeiro erro, Timóteo tem mais tempo, Priscila tem mais folga e Lucas, uma vida a mais",
+          "pl": "Każdy bohater ma bonus w trybie solo: Paweł dostaje drugą szansę, Barnaba pomija pierwszy błąd, Tymoteusz ma więcej czasu, Pryscylla więcej luzu, a Łukasz dodatkowe życie"
         },
         {
-          "pt": "Nova tela de carregamento com a vila à noite.",
-          "pl": "Nowy ekran ładowania z nocną wioską."
-        }
-      ]
-    },
-    {
-      "version": "0.1.0",
-      "build": "7fa1310e94",
-      "date": "2026-11-19T16:03:49Z",
-      "source": "https://playcanv.as/apps/e316ec09",
-      "title": {
-        "pt": "Primeira versão beta",
-        "pl": "Pierwsza wersja beta"
-      },
-      "items": [
-        {
-          "pt": "Corinto: Captura de Zonas, com 6 jornadas.",
-          "pl": "Korynt: Przejmowanie stref, z 6 wyprawami."
+          "pt": "Home com JOGAR e MULTIPLAYER: no multiplayer a cidade e o papel são sorteados",
+          "pl": "Ekran główny z GRAJ i MULTIPLAYER: w multiplayerze miasto i rola są losowane"
         },
         {
-          "pt": "Duelo 1×1 online: Reconciliador contra Fofoqueiro.",
-          "pl": "Pojedynek 1×1 online: Jednający kontra Plotkarz."
+          "pt": "Desafios: 3 missões por dia (com uma troca grátis), missões da semana e o Desafio do Dia, igual para todos",
+          "pl": "Wyzwania: 3 misje dziennie (z jedną darmową zmianą), misje tygodnia i Wyzwanie dnia, takie samo dla wszystkich"
         },
         {
-          "pt": "Heróis: São Paulo, Barnabé, Timóteo e Priscila.",
-          "pl": "Bohaterowie: święty Paweł, Barnaba, Tymoteusz i Pryscylla."
+          "pt": "O XP agora vem só do multiplayer",
+          "pl": "Doświadczenie (XP) zdobywa się teraz tylko w multiplayerze"
         },
         {
-          "pt": "Bíblia offline em português e polonês.",
-          "pl": "Biblia offline po portugalsku i po polsku."
+          "pt": "Corinto e Roma podem ir até a jornada 100",
+          "pl": "Korynt i Rzym można przejść aż do wyprawy 100"
         },
         {
-          "pt": "Instale na tela inicial do celular e jogue como um app.",
-          "pl": "Dodaj grę do ekranu głównego telefonu i graj jak w aplikację."
+          "pt": "Roma traduzida para o polonês",
+          "pl": "Rzym przetłumaczony na polski"
         }
       ]
     }
