@@ -6,7 +6,14 @@
     <atom:link href="https://poloik007.github.io/scriptquest-pwa/updates-pl.xml" rel="self" type="application/rss+xml"/>
     <description>Co się zmieniło w każdej wersji ScriptQuest.</description>
     <language>pl</language>
-    <lastBuildDate>Thu, 26 Nov 2026 09:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:03:30 GMT</lastBuildDate>
+    <item>
+      <title>v0.5.0 — Tesalonika i Galacja</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.5.0</guid>
+      <pubDate>Fri, 27 Nov 2026 10:03:30 GMT</pubDate>
+      <description><![CDATA[<ul><li>Tesalonika „Czuwajcie!”: nocny bieg aż do świtu, z zapaloną lampą, tłumem z tyłu, błotem, próżniakami, tablicami z plotkami i domami, które się rozświetlają, gdy bracia się budzą. Bieg przyspiesza, a bohaterowie mówią zdania z Biblii.</li><li>Galacja „Wolni!”: łamigłówka z przesuwaniem w podpoziomach (6.1, 6.2…). Przegrana? Wracasz do tej samej celi z tą samą mapą.</li><li>Karta z bonusem bohatera na początku każdej gry.</li><li>Dźwięk milknie podczas pauzy we wszystkich minigrach.</li><li>Bohaterowie wczytują się szybciej (gra jest o połowę mniejsza).</li></ul><p>Wersja e7673a2fa1</p>]]></description>
+    </item>
     <item>
       <title>v0.4.0 — Filippi, Boże Narodzenie i 7 cnót</title>
       <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>

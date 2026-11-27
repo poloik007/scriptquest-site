@@ -6,8 +6,40 @@
       "pl": "https://poloik007.github.io/scriptquest-pwa/updates-pl.xml"
     }
   },
-  "updated": "2026-11-26T09:38:55Z",
+  "updated": "2026-11-27T10:03:30Z",
   "releases": [
+    {
+      "version": "0.5.0",
+      "build": "e7673a2fa1",
+      "date": "2026-11-27T10:03:30Z",
+      "source": "https://playcanv.as/apps/2921f793",
+      "title": {
+        "pt": "Tessalônica e Galácia",
+        "pl": "Tesalonika i Galacja"
+      },
+      "items": [
+        {
+          "pt": "Tessalônica \"Vigiai!\": corrida noturna até o amanhecer, com a lamparina acesa, a turba atrás, lama, ociosos, placas de boato e casas que acendem quando os irmãos acordam. A corrida acelera e os heróis falam frases da Bíblia.",
+          "pl": "Tesalonika „Czuwajcie!”: nocny bieg aż do świtu, z zapaloną lampą, tłumem z tyłu, błotem, próżniakami, tablicami z plotkami i domami, które się rozświetlają, gdy bracia się budzą. Bieg przyspiesza, a bohaterowie mówią zdania z Biblii."
+        },
+        {
+          "pt": "Galácia \"Livres!\": quebra-cabeça de deslizar em subníveis (6.1, 6.2…). Perdeu? Volta na mesma cela, com o mesmo mapa.",
+          "pl": "Galacja „Wolni!”: łamigłówka z przesuwaniem w podpoziomach (6.1, 6.2…). Przegrana? Wracasz do tej samej celi z tą samą mapą."
+        },
+        {
+          "pt": "Cartão com o bônus do herói no começo de cada partida.",
+          "pl": "Karta z bonusem bohatera na początku każdej gry."
+        },
+        {
+          "pt": "O som para quando o jogo pausa, em todos os minigames.",
+          "pl": "Dźwięk milknie podczas pauzy we wszystkich minigrach."
+        },
+        {
+          "pt": "Os heróis carregam mais rápido (o jogo ficou com metade do tamanho).",
+          "pl": "Bohaterowie wczytują się szybciej (gra jest o połowę mniejsza)."
+        }
+      ]
+    },
     {
       "version": "0.4.0",
       "build": "24e31fd945",

@@ -6,7 +6,14 @@
     <atom:link href="https://poloik007.github.io/scriptquest-pwa/updates.xml" rel="self" type="application/rss+xml"/>
     <description>O que mudou em cada versão do ScriptQuest.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 09:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:03:30 GMT</lastBuildDate>
+    <item>
+      <title>v0.5.0 — Tessalônica e Galácia</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.5.0</guid>
+      <pubDate>Fri, 27 Nov 2026 10:03:30 GMT</pubDate>
+      <description><![CDATA[<ul><li>Tessalônica &quot;Vigiai!&quot;: corrida noturna até o amanhecer, com a lamparina acesa, a turba atrás, lama, ociosos, placas de boato e casas que acendem quando os irmãos acordam. A corrida acelera e os heróis falam frases da Bíblia.</li><li>Galácia &quot;Livres!&quot;: quebra-cabeça de deslizar em subníveis (6.1, 6.2…). Perdeu? Volta na mesma cela, com o mesmo mapa.</li><li>Cartão com o bônus do herói no começo de cada partida.</li><li>O som para quando o jogo pausa, em todos os minigames.</li><li>Os heróis carregam mais rápido (o jogo ficou com metade do tamanho).</li></ul><p>Versão e7673a2fa1</p>]]></description>
+    </item>
     <item>
       <title>v0.4.0 — Filipos, Natal e as 7 virtudes</title>
       <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
