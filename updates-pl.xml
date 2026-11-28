@@ -6,7 +6,21 @@
     <atom:link href="https://poloik007.github.io/scriptquest-pwa/updates-pl.xml" rel="self" type="application/rss+xml"/>
     <description>Co się zmieniło w każdej wersji ScriptQuest.</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:28:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:39:24 GMT</lastBuildDate>
+    <item>
+      <title>v0.6.2 — Poprawka kont online</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.6.2</guid>
+      <pubDate>Sat, 28 Nov 2026 12:39:24 GMT</pubDate>
+      <description><![CDATA[<ul><li>Szybkie zwycięstwa liczą się teraz na koncie online (wcześniej serwer je odrzucał)</li><li>Gdy serwer czegoś nie przyjmie, komunikat pokazuje powód</li></ul><p>Wersja 2feebd85cb</p>]]></description>
+    </item>
+    <item>
+      <title>v0.6.1 — Nowe miasta za postępy</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.6.1</guid>
+      <pubDate>Sat, 28 Nov 2026 11:54:29 GMT</pubDate>
+      <description><![CDATA[<ul><li>Wygraj 7 pierwszych etapów w mieście, aby odblokować następne</li><li>Na mapie: kłódka przy zablokowanych miastach i ❓ przy tych, które są jeszcze przygotowywane</li><li>Zablokowane miasto pokazuje drogę i prowadzi tam, gdzie możesz grać teraz</li><li>Poprawka: po zalogowaniu gra nie zmienia już sama miasta po meczu</li><li>Poprawka: muzyka nie znika już po wyjściu z gry w Koryncie</li><li>Karta bonusu bohatera znika teraz po 3 sekundach</li></ul><p>Wersja d5907cdd30</p>]]></description>
+    </item>
     <item>
       <title>v0.6.0 — Konta online</title>
       <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>

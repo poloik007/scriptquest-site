@@ -6,7 +6,21 @@
     <atom:link href="https://poloik007.github.io/scriptquest-pwa/updates.xml" rel="self" type="application/rss+xml"/>
     <description>O que mudou em cada versão do ScriptQuest.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:28:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:39:24 GMT</lastBuildDate>
+    <item>
+      <title>v0.6.2 — Correção das contas online</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.6.2</guid>
+      <pubDate>Sat, 28 Nov 2026 12:39:24 GMT</pubDate>
+      <description><![CDATA[<ul><li>Vitórias rápidas agora contam na conta online (antes o servidor recusava)</li><li>Quando o servidor não aceita algo, o aviso mostra o motivo</li></ul><p>Versão 2feebd85cb</p>]]></description>
+    </item>
+    <item>
+      <title>v0.6.1 — Novas cidades por progresso</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.6.1</guid>
+      <pubDate>Sat, 28 Nov 2026 11:54:29 GMT</pubDate>
+      <description><![CDATA[<ul><li>Vença as 7 primeiras fases de uma cidade para liberar a próxima</li><li>No mapa: cadeado nas cidades trancadas e ❓ nas que ainda estão sendo preparadas</li><li>A cidade trancada mostra o caminho e leva você para onde dá para jogar agora</li><li>Correção: logado, o jogo não troca mais de cidade sozinho depois da partida</li><li>Correção: a música não some mais depois de sair de uma partida em Corinto</li><li>O cartão do bônus do herói agora some em 3 segundos</li></ul><p>Versão d5907cdd30</p>]]></description>
+    </item>
     <item>
       <title>v0.6.0 — Contas online</title>
       <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>

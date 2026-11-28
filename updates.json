@@ -6,8 +6,64 @@
       "pl": "https://poloik007.github.io/scriptquest-pwa/updates-pl.xml"
     }
   },
-  "updated": "2026-11-28T08:28:23Z",
+  "updated": "2026-11-28T12:39:24Z",
   "releases": [
+    {
+      "version": "0.6.2",
+      "build": "2feebd85cb",
+      "date": "2026-11-28T12:39:24Z",
+      "source": "https://playcanv.as/apps/4abd76bc",
+      "title": {
+        "pt": "Correção das contas online",
+        "pl": "Poprawka kont online"
+      },
+      "items": [
+        {
+          "pt": "Vitórias rápidas agora contam na conta online (antes o servidor recusava)",
+          "pl": "Szybkie zwycięstwa liczą się teraz na koncie online (wcześniej serwer je odrzucał)"
+        },
+        {
+          "pt": "Quando o servidor não aceita algo, o aviso mostra o motivo",
+          "pl": "Gdy serwer czegoś nie przyjmie, komunikat pokazuje powód"
+        }
+      ]
+    },
+    {
+      "version": "0.6.1",
+      "build": "d5907cdd30",
+      "date": "2026-11-28T11:54:29Z",
+      "source": "https://playcanv.as/apps/4267c5a6",
+      "title": {
+        "pt": "Novas cidades por progresso",
+        "pl": "Nowe miasta za postępy"
+      },
+      "items": [
+        {
+          "pt": "Vença as 7 primeiras fases de uma cidade para liberar a próxima",
+          "pl": "Wygraj 7 pierwszych etapów w mieście, aby odblokować następne"
+        },
+        {
+          "pt": "No mapa: cadeado nas cidades trancadas e ❓ nas que ainda estão sendo preparadas",
+          "pl": "Na mapie: kłódka przy zablokowanych miastach i ❓ przy tych, które są jeszcze przygotowywane"
+        },
+        {
+          "pt": "A cidade trancada mostra o caminho e leva você para onde dá para jogar agora",
+          "pl": "Zablokowane miasto pokazuje drogę i prowadzi tam, gdzie możesz grać teraz"
+        },
+        {
+          "pt": "Correção: logado, o jogo não troca mais de cidade sozinho depois da partida",
+          "pl": "Poprawka: po zalogowaniu gra nie zmienia już sama miasta po meczu"
+        },
+        {
+          "pt": "Correção: a música não some mais depois de sair de uma partida em Corinto",
+          "pl": "Poprawka: muzyka nie znika już po wyjściu z gry w Koryncie"
+        },
+        {
+          "pt": "O cartão do bônus do herói agora some em 3 segundos",
+          "pl": "Karta bonusu bohatera znika teraz po 3 sekundach"
+        }
+      ]
+    },
     {
       "version": "0.6.0",
       "build": "94898e5269",
