@@ -6,8 +6,40 @@
       "pl": "https://poloik007.github.io/scriptquest-pwa/updates-pl.xml"
     }
   },
-  "updated": "2026-11-28T12:39:24Z",
+  "updated": "2026-11-28T17:48:27Z",
   "releases": [
+    {
+      "version": "0.6.3",
+      "build": "6169c0969f",
+      "date": "2026-11-28T17:48:27Z",
+      "source": "https://playcanv.as/apps/a316ab8d",
+      "title": {
+        "pt": "Ajustes em Corinto e Filipos",
+        "pl": "Poprawki w Koryncie i Filippi"
+      },
+      "items": [
+        {
+          "pt": "Corinto: a partida só começa depois que o cartão do bônus do herói some",
+          "pl": "Korynt: gra zaczyna się dopiero, gdy zniknie karta bonusu bohatera"
+        },
+        {
+          "pt": "Corinto: o alerta do Fofoqueiro e do Inchado não cobre mais as porcentagens dos grupos",
+          "pl": "Korynt: alarm Plotkarza i Nadętego nie zasłania już procentów grup"
+        },
+        {
+          "pt": "Filipos com o celular em pé: sem a linha preta perto dos pés de São Paulo",
+          "pl": "Filippi z telefonem w pionie: bez czarnej linii przy stopach św. Pawła"
+        },
+        {
+          "pt": "Filipos: na vitória, o terremoto e a chuva de ouro ocupam a tela toda",
+          "pl": "Filippi: przy zwycięstwie trzęsienie ziemi i deszcz złota zajmują cały ekran"
+        },
+        {
+          "pt": "Contas online: dá para jogar mais partidas seguidas sem o servidor recusar",
+          "pl": "Konta online: można rozegrać więcej gier z rzędu, a serwer ich nie odrzuca"
+        }
+      ]
+    },
     {
       "version": "0.6.2",
       "build": "2feebd85cb",

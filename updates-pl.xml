@@ -6,7 +6,14 @@
     <atom:link href="https://poloik007.github.io/scriptquest-pwa/updates-pl.xml" rel="self" type="application/rss+xml"/>
     <description>Co się zmieniło w każdej wersji ScriptQuest.</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 28 Nov 2026 12:39:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:48:27 GMT</lastBuildDate>
+    <item>
+      <title>v0.6.3 — Poprawki w Koryncie i Filippi</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.6.3</guid>
+      <pubDate>Sat, 28 Nov 2026 17:48:27 GMT</pubDate>
+      <description><![CDATA[<ul><li>Korynt: gra zaczyna się dopiero, gdy zniknie karta bonusu bohatera</li><li>Korynt: alarm Plotkarza i Nadętego nie zasłania już procentów grup</li><li>Filippi z telefonem w pionie: bez czarnej linii przy stopach św. Pawła</li><li>Filippi: przy zwycięstwie trzęsienie ziemi i deszcz złota zajmują cały ekran</li><li>Konta online: można rozegrać więcej gier z rzędu, a serwer ich nie odrzuca</li></ul><p>Wersja 6169c0969f</p>]]></description>
+    </item>
     <item>
       <title>v0.6.2 — Poprawka kont online</title>
       <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
