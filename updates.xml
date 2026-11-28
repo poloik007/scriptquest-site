@@ -6,7 +6,14 @@
     <atom:link href="https://poloik007.github.io/scriptquest-pwa/updates.xml" rel="self" type="application/rss+xml"/>
     <description>O que mudou em cada versão do ScriptQuest.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:03:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:28:23 GMT</lastBuildDate>
+    <item>
+      <title>v0.6.0 — Contas online</title>
+      <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>
+      <guid isPermaLink="false">scriptquest-pwa-0.6.0</guid>
+      <pubDate>Sat, 28 Nov 2026 08:28:23 GMT</pubDate>
+      <description><![CDATA[<ul><li>Entre com o Google em Configurações → Conta e guarde seu progresso na nuvem</li><li>Seu progresso deste aparelho vai para a conta na primeira entrada</li><li>Logado, partidas, loja, presentes e desafios são conferidos pelo servidor</li><li>Duelo online vale para a sua conta</li><li>Atalho ☁️ no Perfil mostra se você está conectado</li></ul><p>Versão 94898e5269</p>]]></description>
+    </item>
     <item>
       <title>v0.5.0 — Tessalônica e Galácia</title>
       <link>https://poloik007.github.io/scriptquest-site/#/atualizacoes</link>

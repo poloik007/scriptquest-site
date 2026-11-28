@@ -6,8 +6,40 @@
       "pl": "https://poloik007.github.io/scriptquest-pwa/updates-pl.xml"
     }
   },
-  "updated": "2026-11-27T10:03:30Z",
+  "updated": "2026-11-28T08:28:23Z",
   "releases": [
+    {
+      "version": "0.6.0",
+      "build": "94898e5269",
+      "date": "2026-11-28T08:28:23Z",
+      "source": "https://playcanv.as/apps/eebe5b30",
+      "title": {
+        "pt": "Contas online",
+        "pl": "Konta online"
+      },
+      "items": [
+        {
+          "pt": "Entre com o Google em Configurações → Conta e guarde seu progresso na nuvem",
+          "pl": "Zaloguj się przez Google w Ustawienia → Konto i zapisz postępy w chmurze"
+        },
+        {
+          "pt": "Seu progresso deste aparelho vai para a conta na primeira entrada",
+          "pl": "Postępy z tego urządzenia trafią na konto przy pierwszym logowaniu"
+        },
+        {
+          "pt": "Logado, partidas, loja, presentes e desafios são conferidos pelo servidor",
+          "pl": "Po zalogowaniu mecze, sklep, prezenty i wyzwania sprawdza serwer"
+        },
+        {
+          "pt": "Duelo online vale para a sua conta",
+          "pl": "Pojedynek online liczy się na Twoje konto"
+        },
+        {
+          "pt": "Atalho ☁️ no Perfil mostra se você está conectado",
+          "pl": "Skrót ☁️ w Profilu pokazuje, czy jesteś połączony"
+        }
+      ]
+    },
     {
       "version": "0.5.0",
       "build": "e7673a2fa1",
